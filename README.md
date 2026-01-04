@@ -67,7 +67,7 @@ This will:
 
 Here's a live demonstration of the synthetic moving circles and the tracking results:
 
-![Demo Video](https://github.com/kenee101/event-frame-tracking/tree/main/src/synthetic_moving_circles.mp4)
+![Demo Video](src/synthetic_moving_circles.mp4)
 
 _Video: Synthetic moving circles being tracked in real-time using both event-based and frame-based approaches._
 
