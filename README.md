@@ -2,7 +2,7 @@
 
 **A research-oriented project demonstrating neuromorphic vision principles and comparative tracking analysis**
 
-## 🎯 Project Overview
+## Project Overview
 
 This project implements and compares two paradigms of visual object tracking:
 
@@ -11,7 +11,7 @@ This project implements and compares two paradigms of visual object tracking:
 
 The goal is to demonstrate understanding of neuromorphic computing, performance analysis, and research methodology suitable for academic research applications.
 
-## 🔬 Research Motivation
+## Research Motivation
 
 Event cameras (Dynamic Vision Sensors) represent a paradigm shift in computer vision, offering:
 
@@ -172,7 +172,3 @@ Key papers in event-based vision:
 - OpenCV 4.5+
 - NumPy, Matplotlib
 - 4GB RAM minimum
-
-## 📄 License
-
-MIT License - feel free to use for research and education
