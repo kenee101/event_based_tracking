@@ -79,7 +79,7 @@ The following chart compares the performance of event-based vs frame-based track
 
 _Figure: Comparative analysis of tracking performance metrics including latency, data efficiency, and power consumption._
 
-## 🔧 Implementation Details
+## Implementation Details
 
 ### Event Simulator
 
@@ -139,7 +139,7 @@ Estimated **~90% power reduction** from:
 - Selective computation
 - Event-driven processing
 
-## 🎓 Research Relevance
+## Research Relevance
 
 This project demonstrates:
 
@@ -149,7 +149,7 @@ This project demonstrates:
 4. **Performance Evaluation**: Comprehensive metrics and visualization
 5. **Research Communication**: Clear documentation and presentation
 
-## 🔬 Future Extensions
+## Future Extensions
 
 Potential research directions:
 
@@ -158,7 +158,7 @@ Potential research directions:
 - Multi-object tracking and association
 - Real-time hardware implementation (FPGA, neuromorphic chips)
 
-## 📚 References
+## References
 
 Key papers in event-based vision:
 
@@ -166,7 +166,7 @@ Key papers in event-based vision:
 2. Rebecq et al., "EKLT: Asynchronous Photometric Feature Tracking" (2017)
 3. Zhu et al., "Event-based Visual Inertial Odometry" (2017)
 
-## 🛠️ Technical Requirements
+## Technical Requirements
 
 - Python 3.12+
 - OpenCV 4.5+
